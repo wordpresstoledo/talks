@@ -1,0 +1,141 @@
+99 messages
+Today
+
+Hi!  Anything I can help you with about the Bootcamp?
+	Hi!  I'm Zac :)  
+Is there anything I can help you with?
+Hi Zac, I hope you are well. I've been taking courses on Modern JS. I own your Gutenberg Theme Dev course. I think I would benefit from the last part of your Bootcamp. What should I know about the bootcamp that would convince me that is not already available to me in the other course?
+Would you mind letting me know who I'm talking with?
+
+Your name...
+ 
+Zac Gordon
+
+Educator
+
+joined
+
+Hi!
+The Bootcamp is really designed for folks who have trouble learning on their own
+Sorry if that was written slopily.
+
+Or want to have a massive download in a short time
+No worries :) totally understand what you're asking!
+Gotcha.
+
+So if you've been happy just learning via videos you might not need the Bootcamp :)
+I'd love to have you in it of course, but it's not necessary for everyone :)
+I do want to improve my skills, what I can take on. I work in ACF right now for customization but the fact is that will eventually go away.
+I met you once in Ann Arbor for WC last year.
+
+Actually have you seen the news on ACF?
+It will be totally Gutenberg compatible and pretty cool. You'll be able to create blocks with it :)
+Oh cool!
+Hello again :)
+What's your name?
+I read the post about how to integrate ACF with Gutenberg, but I wasn't sure if it would work for every type of thing I've built.
+Greg
+
+It might need some converting or work, but starting new projects with it should be good.
+Hi Greg :)
+The example was for a testimonial, I'll go back and look to see & test how it can be implemented for other things.
+
+I'm also a proponent of not using Gutenberg if it doesn't work for your projects :)
+There will be a time when we won't be able to disable it, right?
+
+Well you'll need a plugin to make sure it stays disabled. Like the Classic Editor and/or Gutenberg Ramp Plugin
+But many people don't plan to use it for the next year or two or more at least 👍🏼
+OK, good to know about Ramp.. Tomorrow I'm giving a talk to my local meetup about Gutenberg.
+I have a link on it for your javascriptforwp website.
+
+Oh that's great!
+I hope it goes well :) please let me know if I can help!
+My idea is, there is no stopping this and it will change how we do what we do, but the end goal is to make WP better for the future.
+
+Yeah no stopping it but you don't have to use it is my take
+Sure. This will be an intro talk, so I expect a lot of questions. Hopefully we can have some talks about working in Gutenberg, customizing blocks and etc.
+
+Oh nice! That's great you're doing that. A lot of folks still have no idea what's coming :)
+Awesome, that's good to know coming from a seasoned pro like yourself. I'd just resigned myself to changing all that I do.
+
+Haha, hope that helps :)
+I sort of think my customers will want to be fully compatible with 'future' WP; but perhaps I won't mention it if we can keep doing what we are doing.
+
+Yes. I agree.
+But sometimes when they see what that will cost them in $$$ they become more open to gradual and practical approaches
+I feel for you tho. I just teach how to build with Gutenberg, but I don't and won't use it on javascriptforwp.com anytime soon 😂
+That said, as a developer it's smart to know how it all works I think
+Will developing for React plugins be as fast as the current method?
+
+Mmm, not sure. In some ways it's easier because there is a rich component library and api for things. Compared to the PHP fields and options api
+But that counts on one learning React
+And then some blocks require both React and PHP so those will take a tiny bit more work.
+Most folks I know who have gotten into this really enjoy the change
+It's certainly a more modern flow
+brb
+
+👍🏼
+the change of working in both React and PHP?
+
+My apologies could you rephrase the question? I didn't follow that.
+You wrote, most folks have enjoyed the change for the sake of the workflow?
+
+Aw yes. Shifting from the past methods of PHP development to the React and JavaScript flow
+OK, well I am still thinking of joining your course; I've got FOMO, pretty bad ... ;)
+
+😁
+Well I'd love to have you, but I always try to be honest in encouraging folks to think about the time and cost commitments 👍🏼
+And if this time doesn't work out I will run it again next year most likely :)
+My problem is, after learning Modern JS I still have to really know React JS. At my pace; maybe it makes sense to get ahead.
+I don't know of anyone else taking the approach that you are.
+
+I do think it's a smart move and you're definitely ahead of the curve for thinking this way.
+Will you include the 'Create Guten-block' in your course? https://ahmadawais.com/create-guten-block-toolkit/
+
+But luckily it's still WordPress so we can get away with doing a lot without needing to understand everything in super depth at first :)
+I do not.
+I like that it exists but my approach is to teach people everything that that plugin hides out of the way
+Will you get into working in WebPack toolsets?
+
+Yup, webpack, npm, and babel
+But we keep it fairly simple. Luckily we don't need to know too much and I'll provide good Boilerplate that take care of most of it for you.
+What do you anticipate for student 'projects' in this course?
+ 
+Oh they vary so much.
+The simplest one is just a small plugin or theme enhancement. Even a custom Gutenberg block would work.
+Since our time is limited I try to encourage projects that can be completed in a short time.
+Rather than trying to build a huge stand alone app
+Gotcha, I like that.
+
+Some folks already know quite a lot and have extra time so they take on bigger projects
+Oh good :)
+Yeah, usually students have something in mind they want to do
+I try to encourage something real world so you're not just wasting your time building something that won't be used b
+So work projects count too. It can be part of a client project for instance
+Right, that's what I was thinking. I can take one of my current sites and build some part of it as Gutenbergized.
+Do you know what Elegant Themes and Elementor and Beaver Builder and other theme plugins are doing to adjust for this Gutenberg revelation?
+
+Yup
+They're carrying on as planned
+It will take a couple years for Gutenberg to be anywhere close to as good as them
+Visual Composer and ones like that that exist within the editor are looking to convert their platforms into block libraries
+As you may have mentioned things like GB columns are still pretty clunky. So plugins like this can offer nicer blocks than WP Core
+But Beaver Builder and elementor open in their own windows so will exist as an alternative to Gutenberg
+So when WP 5.0.0 rolls around, Gutenberg will be in core, and people will decide at launch if they want Classic.
+If you then have Classic implemented, can you still have some React plugins alongside?
+
+With Gutenberg Ramp Plugin you can have the classic editor or a page builder for some post types and Gutenberg for others.
+Like I will probably still use Beaver Builder for pages and custom post types but may enable Gutenberg just for blog posts.
+Oh nice.
+
+React will still be in Core whether you have the classic editor or not so you can still enqueue it in your themes and plugins if you want to use it for non Gutenberg coding
+I'm no fan of jQuery, but is it expected to be moved out of core? Do you know the future prospects of jQuery?
+
+It will stay in Core. It's not used with Gutenberg but still in use elsewhere and lots of themes and plugins rely on it being in Core
+It's primary purpose will be for "cosmetic JavaScript" where React doesn't make sense. And mostly leveraged by theme and plugin devs and not any new Core features
+You've really helped me understand some things I'll want to add to my talk.
+1 minute ago, seen
+
+Oh I'm so glad! The Core devs have answered a lot of my questions so happy to pass on what I know :)
+And thank you for doing the same! 👏👏 👏
+No problem my friend. I'll make a decision on this soon.
