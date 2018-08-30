@@ -1,0 +1,9 @@
+/*
+    Greg's customizations
+*/
+.reveal ul {
+    list-style-type: none;
+}
+.fa {
+    color: #F44336;
+}
