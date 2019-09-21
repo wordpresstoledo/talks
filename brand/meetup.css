@@ -1,4 +1,19 @@
-.reveal {
+/*
+    Theme customizations
+*/
+
+/* .reveal {
         background: url(/brand/logo_isolated_orange.svg) 50% 50%;
        
+} */
+
+
+.reveal ul {
+    list-style-type: none;
+}
+.fa {
+    color: #F44336;
+}
+.reveal h1 {
+    font-size: 2.1em;
 }
